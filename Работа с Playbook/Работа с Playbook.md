@@ -68,6 +68,6 @@ kibana                     : ok=4    changed=2    unreachable=0    failed=1    s
 7. Запустите playbook на `prod.yml` окружении с флагом `--diff`. Убедитесь, что изменения на системе произведены.
 8. Повторно запустите playbook с флагом `--diff` и убедитесь, что playbook идемпотентен.
 9. Подготовьте README.md файл по своему playbook. В нём должно быть описано: что делает playbook, какие у него есть параметры и теги.  
-[README.md](https://github.com/Bora2k3/08-ansible-02-playbook/blob/main/playbook/README.md)
+[README.md](https://github.com/Vitalya-Mozgovoy/ansible--netelogy/blob/main/Работа%20с%20Playbook/Readme.md)
 10. Готовый playbook выложите в свой репозиторий, в ответ предоставьте ссылку на него.  
-[playbook](https://github.com/Bora2k3/08-ansible-02-playbook/tree/main/playbook)
+[playbook](https://github.com/Vitalya-Mozgovoy/ansible--netelogy/tree/main/Работа%20с%20Playbook/playbook)
