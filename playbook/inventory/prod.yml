@@ -1,9 +1,9 @@
 ---
-  el:
-    hosts:
-      centos7:
-        ansible_connection: docker
-  deb:
-    hosts:
-      ubuntu:
-        ansible_connection: docker
+clickhouse:
+  hosts:
+    clickhouse-01:
+      ansible_host: 192.168.0.200
+vector:
+  hosts:
+    vector-01:
+      ansible_host: 192.168.0.201
