@@ -26,7 +26,7 @@
 
 
 
-****
+[my playbook](https://github.com/Vitalya-Mozgovoy/ansible--netelogy/tree/main/playbook)
 
 ## Инфраструктура:
 
