@@ -39,11 +39,11 @@
 
 [lighthouse-role](https://github.com/Vitalya-Mozgovoy/lighthouse-role/blob/main/lighthouse-role.md)
 
-[playbook]()
+[playbook](https://github.com/Vitalya-Mozgovoy/ansible--netelogy/blob/main/Работа%20с%20roles/site.yml)
 
-[vagrant infrastructure]()
+[vagrant infrastructure](https://github.com/Vitalya-Mozgovoy/ansible--netelogy/blob/main/Работа%20с%20roles/Vagrantfile)
 
-[yandex.cloud infrastructure]()
+[yandex.cloud infrastructure](https://github.com/Vitalya-Mozgovoy/ansible--netelogy/tree/main/Работа%20с%20roles/terraform)
 
 Инфраструктура состоит из трех хостов:
 - clickhouse-01
@@ -54,7 +54,7 @@
 
 Ansible разворачивает на хостах приложения:
 - `clickhouse`
-  Разворачивается с помощью одноименной роли `clickhouse` из публичного репозитория [ansible-clickhouse]() 
+  Разворачивается с помощью одноименной роли `clickhouse` из публичного репозитория [ansible-clickhouse](https://github.com/Vitalya-Mozgovoy/ansible--netelogy/blob/main/Работа%20с%20roles/ansible-clickhouse.md) 
 - `vector`
   разворачивается с помощью роли `vector-role` из ветки vector-role этого же репозитория
 - `lighthouse`
